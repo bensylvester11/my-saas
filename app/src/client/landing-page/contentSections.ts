@@ -10,7 +10,7 @@ export const navigation = [
 ];
 export const features = [
   {
-    name: 'Cool Feature #1',
+    name: 'The Cheapest on the Market',
     description: 'Describe your cool feature here.',
     icon: '🤝',
     href: DOCS_URL,
